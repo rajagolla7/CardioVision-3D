@@ -1,0 +1,6 @@
+{
+  "name": "CardioVision 3D AI — Multimodal Cardiovascular Risk Platform",
+  "description": "Interactive 3D cardiac risk visualization, clinical risk estimation, multimodal health data lab, and explainable AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
